@@ -1,4 +1,4 @@
-<div-align-center>
+<div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=ALLIN&fontSize=60" />
 <div/>
 
