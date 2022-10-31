@@ -1,3 +1,4 @@
 # ajou_allin_basic_study
 아주대 ALLIN 기초코딩 스터디
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+[<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>](https://img.shields.io/badge/language-python-blue)
+https://img.shields.io/badge/language-bigdata-informational
