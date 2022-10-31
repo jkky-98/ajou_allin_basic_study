@@ -1,5 +1,5 @@
 # ajou_allin_basic_study
-<img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=200&section=header&text=아주대&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=blue&height=200&section=header&text=Ajou Univ ALLIN&fontSize=60" />
 
 
 
