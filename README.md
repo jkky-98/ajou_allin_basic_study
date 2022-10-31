@@ -1,5 +1,7 @@
 # ajou_allin_basic_study
-<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=ALLIN&fontSize=60" />
+<div-align-center>
+	<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=ALLIN&fontSize=60" />
+<div/>
 
 
 
