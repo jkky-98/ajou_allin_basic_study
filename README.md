@@ -1,5 +1,5 @@
 # ajou_allin_basic_study
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=아주대 소학회 ALL IN&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=아주대&fontSize=90" />
 
 
 
