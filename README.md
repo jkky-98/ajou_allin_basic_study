@@ -9,4 +9,6 @@
 <div align="center">
 	<img src="https://img.shields.io/badge/Python-007396?style=flat&logo=python&logoColor=white" />
 	<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+	
 </div>
